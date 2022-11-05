@@ -1,0 +1,3 @@
+edit-profile = Registration
+edit-profile1 = Edit Profile
+Registration no link
